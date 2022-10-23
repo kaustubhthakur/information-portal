@@ -1,0 +1,40 @@
+.cse 
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: blue;
+    background-color: aliceblue;
+    align-items: center;
+    text-decoration: dashed;
+    font-weight: bold;
+}
+.learn 
+{
+    background: powderblue;
+    height: 250px;
+    
+}
+.history 
+{
+    background-color: aliceblue;
+    height: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.future-opportunities
+{
+    background: aliceblue;
+    height: 450px;
+}
+.whatis
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.content 
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.oppo 
+{
+    font-weight: 500;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
