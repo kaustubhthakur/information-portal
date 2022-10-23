@@ -1,2 +1,3 @@
 # information-portal
-1)npm install
+# npm install
+# npm run start
